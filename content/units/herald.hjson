@@ -1,0 +1,19 @@
+// Tier-2 ground mech in the dagger family (orange accent). 400 health: always below 70% of the weakest boss
+// (quasar, 640), so it previews a boss without being one.
+type: mech
+speed: 0.5
+hitSize: 10
+health: 400
+armor: 3
+mechFrontSway: 0.55
+weapons: [
+  {
+    name: large-weapon
+    reload: 18
+    x: 5
+    y: 1
+    top: false
+    ejectEffect: casing1
+    bullet: { type: BasicBulletType, speed: 2.5, damage: 11, width: 7, height: 9, lifetime: 60 }
+  }
+]

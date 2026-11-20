@@ -1,0 +1,7 @@
+name: fanpulse-herald
+displayName: "FanPulse: Herald"
+author: FanPulse
+description: "Players said bosses arrive without warning. Heralds now walk in 4, 3 and 2 waves before every guardian boss wave, so you can see it coming and prepare. Built and verified with FanPulse."
+version: "1.0"
+minGameVersion: 146
+repo: "yugena/fanpulse-herald"
